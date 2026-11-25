@@ -1,0 +1,71 @@
+parede_direita / RV32_SS
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_esquerda / RV32_SS
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_cima / RV32_SS
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_baixo / RV32_SS
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+colisao_corpo / RV32_SS
+GAME OVER! Pontos: 2
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+vitoria / RV32_SS
+VOCE VENCEU! Pontos: 872
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_direita / RV32_5S
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_esquerda / RV32_5S
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_cima / RV32_5S
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+parede_baixo / RV32_5S
+GAME OVER! Pontos: 0
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+colisao_corpo / RV32_5S
+GAME OVER! Pontos: 2
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0
+
+vitoria / RV32_5S
+VOCE VENCEU! Pontos: 872
+Aperte uma direcao para jogar de novo.
+
+Program exited with code: 0

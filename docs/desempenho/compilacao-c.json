@@ -1,0 +1,8 @@
+{
+  "compiler": "rv32-cclang1701",
+  "version": "Clang 17.0.1",
+  "service": "https://godbolt.org",
+  "options": "-O2 -march=rv32i -mabi=ilp32 -ffreestanding -g0 -fno-verbose-asm",
+  "code": 0,
+  "stderr": []
+}
